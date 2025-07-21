@@ -1,0 +1,12 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Mon, 21 Jul 2025 20:25:29 GMT
+Content-Type: application/json
+Content-Length: 850
+Cache-Control: private, max-age=240
+X-Request-Id: 89bb72ea8421451d848fd4f3ed58fdfc
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"suggestions":[{"title":"Weather for Coronel Fabriciano","url":"https://www.accuweather.com/pt/br/coronel-fabriciano/44329/current-weather/44329?lang=pt-br&partner=web_mozilla_adc","provider":"accuweather","is_sponsored":false,"score":0.3,"city_name":"Coronel Fabriciano","region_code":"Brazil","current_conditions":{"url":"https://www.accuweather.com/pt/br/coronel-fabriciano/44329/current-weather/44329?lang=pt-br&partner=web_mozilla_adc","summary":"Ensolarado","icon_id":1,"temperature":{"c":25,"f":78}},"forecast":{"url":"https://www.accuweather.com/pt/br/coronel-fabriciano/44329/daily-weather-forecast/44329?lang=pt-br&partner=web_mozilla_adc","summary":"Este fim de semana serÃ¡ Parcialmente ensolarado","high":{"c":27,"f":80},"low":{"c":12,"f":54}}}],"request_id":"89bb72ea8421451d848fd4f3ed58fdfc","client_variants":[],"server_variants":[]}
