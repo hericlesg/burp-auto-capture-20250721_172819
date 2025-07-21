@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:03:22 GMT
+Content-Type: application/json
+Cf-Ray: 962d4d1e9df5a5c3-GRU
+Cf-Cache-Status: HIT
+Age: 8
+Cache-Control: s-maxage=10, max-age=10, stale-while-revalidate=50, stale-if-error=86400
+Last-Modified: Mon, 21 Jul 2025 20:03:14 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 21 Jul 2025 20:03:14 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 8865929385518329188
+X-Fc-Instance-Id: c-687e9cb0-0aca7807-70152443642d
+X-Fc-Invocation-Duration: 35
+X-Fc-Invocation-Service-Version: 104
+X-Fc-Max-Memory-Usage: 989.12
+X-Fc-Request-Id: 1-687e9d01-0af7f60b-37f02bbffe7c
+X-Original-Cache-Control: s-maxage=10, max-age=10, stale-while-revalidate=50, stale-if-error=86400
+X-Trace-Id: 7KWHG7EJ
+Set-Cookie: __cf_bm=6.xQdQfr.h.C3WJy2AI2yUJxJKU1NNKxCXG1k4zHnkY-1753128202-1.0.1.1-ddrZgjX2k0vmxIDXQaFoN_X7KBE.bMKgFrUShDwZB3BhoIczNJZ9YzHcqTjhGErVufMQ2IKfxWC_P0Y8YFEavlLaKw6WIxXoRZOnq452mWs; path=/; expires=Mon, 21-Jul-25 20:33:22 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=9aOv7LnH4tNT0XxiS53iF9J.1aFYqTTjJrUKCdKTvTk-1753128202082-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":{"accountRegisterSwitch":false,"accountRegisterShowPhone":false,"accountRegisterPhoneRequired":false,"accountRegisterPhoneValidate":false,"phoneRegisterSwitch":true,"phoneRegisterPhoneValidate":false,"googleRegisterSwitch":false,"captchaSwitch":"ON","imageCaptchaSwitch":"OFF","loginCaptcha":"OFF","loginType":["Phone"],"needCpf":true,"needRealName":false,"needBirthday":false,"needRealNameInput":false,"thirdPartyLogin":"","thirdPartyAuthInfo":[],"regionConfig":{"smsSwitch":false,"registerType":["Phone","Google"],"currencySymbol":"fiat"}}}}}
