@@ -1,0 +1,6 @@
+HTTP/1.1 101 Switching Protocols
+Date: Mon, 21 Jul 2025 20:03:52 GMT
+Connection: upgrade
+Upgrade: websocket
+Sec-WebSocket-Accept: e2CfoD7dgOu3oIcakWgFyo/8lvA=
+
