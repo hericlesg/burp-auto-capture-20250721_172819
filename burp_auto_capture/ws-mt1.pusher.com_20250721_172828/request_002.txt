@@ -1,0 +1,17 @@
+GET /app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false HTTP/1.1
+Host: ws-mt1.pusher.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: https://rmbqozvki.com
+Sec-WebSocket-Key: Nk5VgfwxdbqGXa+qBY8pqg==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
