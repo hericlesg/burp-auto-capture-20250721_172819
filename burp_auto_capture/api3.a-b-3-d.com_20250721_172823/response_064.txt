@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:24:45 GMT
+Content-Type: application/json
+Cf-Ray: 962d6c721ca0a4c3-GRU
+Cf-Cache-Status: HIT
+Age: 71
+Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+Last-Modified: Mon, 21 Jul 2025 20:23:34 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 21 Jul 2025 20:23:34 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 1140572459496259295
+X-Fc-Instance-Id: c-687ea110-0aca7807-b07ef2e3b47b
+X-Fc-Invocation-Duration: 62
+X-Fc-Invocation-Service-Version: 102
+X-Fc-Max-Memory-Usage: 1066.44
+X-Fc-Request-Id: 1-687ea1c6-0ab31c7c-a006e9aa96df
+X-Original-Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+X-Trace-Id: C1RV5NLY
+Set-Cookie: __cf_bm=YlvpqA_aoWcb7i88xIIldC6vkshMe0HrW47aC87CjZs-1753129485-1.0.1.1-3_LQOQ0WIuZY4y70SWEA7.o0JBQhB2x5rM.QySs2xnOdu4bzUTTNj6wFR1wurMLEgHUSVdKgedeEnd2gIHYYTXzSOOFKfewezXXOsyad5OU; path=/; expires=Mon, 21-Jul-25 20:54:45 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=4O5XVDpzi2PfuPxt5jiicJh1jquAIDyueBqaXPSSjKY-1753129485195-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":[{"id":724,"bannerType":"lobby_carousel","name":"ä»£çå®ç®±","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748322821339/bx.jpg","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"æ¨èå¥½åé¢å½©é\",\"activityId\":511}}","status":true,"sort":6,"remark":""},{"id":729,"bannerType":"lobby_carousel","name":"å®æ¶è¿æ°´","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323166283/yj.jpg","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"è¿æ°´æ´»å¨\",\"activityId\":518}}","status":true,"sort":5,"remark":""},{"id":725,"bannerType":"lobby_carousel","name":"VIP","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323010984/vip.jpg","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"vip\",\"info\":\"string\"}","status":true,"sort":3,"remark":""},{"id":726,"bannerType":"lobby_carousel","name":"ææ´é","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323062546/zks.jpg","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"æ¯å¨ææ´é\",\"activityId\":516}}","status":true,"sort":3,"remark":""},{"id":727,"bannerType":"lobby_carousel","name":"çº¢åé¨","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323084721/hby.jpg","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"ç¥ç§ç¿åº\",\"activityId\":519}}","status":true,"sort":3,"remark":""},{"id":728,"bannerType":"lobby_carousel","name":"æ¼å¤å¤","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323126421/pdd.jpg","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"å©åé¢ç°é\",\"activityId\":585}}","status":true,"sort":1,"remark":""}]}}}
