@@ -1,0 +1,9 @@
+GET /api/v1/suggest?q=&providers=accuweather&request_type=weather&sid=a9fe26c3-c61d-4334-807a-5d8ada9d9df4&seq=0 HTTP/2
+Host: merino.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Priority: u=4
+Te: trailers
+
