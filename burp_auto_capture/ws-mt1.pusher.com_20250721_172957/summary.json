@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20250721_172957", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/request_001.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/response_001.txt", 
+      "timestamp": 1753128235059
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/request_002.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/response_002.txt", 
+      "timestamp": 1753128265206
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/request_003.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/response_003.txt", 
+      "timestamp": 1753129433525
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/request_004.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/response_004.txt", 
+      "timestamp": 1753129437154
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/request_005.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172957/response_005.txt", 
+      "timestamp": 1753129487422
+    }
+  ], 
+  "host": "ws-mt1.pusher.com", 
+  "total_requests": 5
+}
