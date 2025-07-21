@@ -1,0 +1,29 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:04:26 GMT
+Content-Type: application/json
+Cf-Ray: 962d4eb069acf1f3-GRU
+Cf-Cache-Status: DYNAMIC
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+X-Cache-Source: ORIGIN
+X-Cache-Status: MISS
+X-Fc-Code-Checksum: 8865929385518329188
+X-Fc-Instance-Id: c-687e9c1a-0aca7807-61e686c4170a
+X-Fc-Invocation-Duration: 380
+X-Fc-Invocation-Service-Version: 104
+X-Fc-Max-Memory-Usage: 1185.41
+X-Fc-Request-Id: 1-687e9d4a-0acc1e71-99c83f73967b
+X-Tag: AmoeOC0TYSoxGGlXPW5oSRwcAhUdQw8QIBdJDmNcBCcYPQc/ak0XPiUOOSQCEX5ZV0hDUE8EcUZ6Dw==
+X-Trace-Id: QRDXSNHZ
+Set-Cookie: __cf_bm=_.hHPUKlClpE_Pe8o0zx0Ib2p1p7OT4waTuD7ktY_sQ-1753128266-1.0.1.1-HWvjEfwta45sYLOqANNwxEohGslpLHq8qYR83bcBrGpIKHG_driBqDVq_VyoijdXqD2Oxq3XvKEZ408TPepm7KrAxt5uVzU.qFriu0hmSwaa0K4piWTdqWVu7gniONe.; path=/; expires=Mon, 21-Jul-25 20:34:26 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=wB1wiAI5qPldIieszgIC5aRbs22eRvt_GgrYZ7glkOE-1753128266858-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":{"awardAmount":120}}}}
