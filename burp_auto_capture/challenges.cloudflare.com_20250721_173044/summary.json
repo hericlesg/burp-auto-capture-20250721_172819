@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250721_173044", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/request_001.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/8yy5w/0x4AAAAAAAiHEkDee-yqSdMj/auto/fbE/new/flexible/auto/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/response_001.txt", 
+      "timestamp": 1753128204677
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/request_002.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/flow/ov1/1610966242:1753126077:tcjvKIeH4qkvUvAk6FjcQOoznezWNOl_FL5RXArs9IU/962d4d225e0bf190/Y1NDasq_pAb6AJ2c9uI3tjgFhJkK88nRfWIHPyQolU4-1753128202-1.2.1.1-zv5U1K3R_hJTB01vPYp783EuDKRl3QSigkXEplfzvhyIvWr5m37nddeq5vr2tiaQ", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/response_002.txt", 
+      "timestamp": 1753128206542
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/request_003.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/pat/962d4d225e0bf190/1753128204197/011f46b1093d160d5e8b8d9904acd083f672d04fbbbb116eb24d5d7fefaf7026/vmcnfT8FFv_7z1B", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/response_003.txt", 
+      "timestamp": 1753128209233
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/request_004.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/flow/ov1/1610966242:1753126077:tcjvKIeH4qkvUvAk6FjcQOoznezWNOl_FL5RXArs9IU/962d4d225e0bf190/Y1NDasq_pAb6AJ2c9uI3tjgFhJkK88nRfWIHPyQolU4-1753128202-1.2.1.1-zv5U1K3R_hJTB01vPYp783EuDKRl3QSigkXEplfzvhyIvWr5m37nddeq5vr2tiaQ", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250721_173044/response_004.txt", 
+      "timestamp": 1753128212704
+    }
+  ], 
+  "host": "challenges.cloudflare.com", 
+  "total_requests": 4
+}
