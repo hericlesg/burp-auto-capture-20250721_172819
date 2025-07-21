@@ -1,0 +1,19 @@
+POST /api/frontend/pusher/channel-auth HTTP/2
+Host: api3.a-b-3-d.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer f6ew70ixtbv4rul56g6cvhkqrcjqgkhs0f5h46gn
+Client-Language: pt-BR
+Tenantid: 9569090
+Content-Length: 55
+Origin: https://rmbqozvki.com
+Referer: https://rmbqozvki.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
+socket_id=842402.276172749&channel_name=private-9569090
