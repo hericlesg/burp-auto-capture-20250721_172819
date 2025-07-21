@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:24:45 GMT
+Content-Type: application/json
+Cf-Ray: 962d6c721c9fa4c3-GRU
+Cf-Cache-Status: HIT
+Age: 83
+Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+Last-Modified: Mon, 21 Jul 2025 20:23:22 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 21 Jul 2025 20:23:22 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 1140572459496259295
+X-Fc-Instance-Id: c-687e9d96-0aca7807-67a1eba028a2
+X-Fc-Invocation-Duration: 87
+X-Fc-Invocation-Service-Version: 102
+X-Fc-Max-Memory-Usage: 1136.11
+X-Fc-Request-Id: 1-687ea1ba-0a6bc4f0-7c5a719e3ffd
+X-Original-Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+X-Trace-Id: ABKHEHMP
+Set-Cookie: __cf_bm=t9TSLFuHuF.6No7Em14fY05rgYH439gpTyTGKvLXX6Q-1753129485-1.0.1.1-2bw0PD96U0KyDLrZ28fRMvTYeyy18trhSGQrMtB2wRSPiKVjR8X5Ebe9mXLPFL2FjbPNN_ilBU5._XbylQhsoS0A6KtrHKXL4FmmrEFmdsk; path=/; expires=Mon, 21-Jul-25 20:54:45 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=B7QAu7.R98DIpntfYQ7nGQhrHC3A.vkaYbvwEWelXTg-1753129485223-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":[{"id":730,"bannerType":"lobby_sidebar_banner","name":"å®ç®±","showName":"","imageUrl":"","shortName":"BÃ´nus R$55","iconUrlType":"default","defaultIconUrl":"https://upload-sys-pics.bcbd123.com/recommendActivityConfig/Agency.png","customIconUrl":"","targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"æ¨èå¥½åé¢å½©é\",\"activityId\":511}}","status":true,"sort":1,"remark":""},{"id":731,"bannerType":"lobby_sidebar_banner","name":"VIP","showName":"","imageUrl":"","shortName":"BÃ´nus VIP","iconUrlType":"default","defaultIconUrl":"https://upload-sys-pics.bcbd123.com/recommendActivityConfig/vip.png","customIconUrl":"","targetType":"internal","targetValue":"{\"type\":\"vip\",\"info\":\"string\"}","status":true,"sort":1,"remark":""},{"id":732,"bannerType":"lobby_sidebar_banner","name":"ç¥ç§å½©é","showName":"","imageUrl":"","shortName":"BÃ´nus MistÃ©rio","iconUrlType":"default","defaultIconUrl":"https://upload-sys-pics.bcbd123.com/recommendActivityConfig/MysteryReward.png","customIconUrl":"","targetType":"internal","targetValue":"{\"type\":\"activity\",\"info\":{\"activityName\":\"ç¥ç§å½©éæ´»å¨\",\"activityId\":514}}","status":true,"sort":1,"remark":""},{"id":733,"bannerType":"lobby_sidebar_banner","name":"ä½£é","showName":"","imageUrl":"","shortName":"ComissÃ£o 5%","iconUrlType":"default","defaultIconUrl":"https://upload-sys-pics.bcbd123.com/recommendActivityConfig/promotion.png","customIconUrl":"","targetType":"internal","targetValue":"{\"type\":\"promotion\",\"info\":\"string\"}","status":true,"sort":1,"remark":""}]}}}
