@@ -1,0 +1,17 @@
+GET /app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false HTTP/1.1
+Host: ws-mt1.pusher.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Sec-WebSocket-Version: 13
+Origin: https://rmbqozvki.com
+Sec-WebSocket-Key: eF+SYtoU6P2IZl0kvB1X7w==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
