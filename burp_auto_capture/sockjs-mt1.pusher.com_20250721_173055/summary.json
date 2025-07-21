@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250721_173055", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sockjs-mt1.pusher.com_20250721_173055/request_001.txt", 
+      "url": "https://sockjs-mt1.pusher.com:443/pusher/app/6efb2c585e6c00c9b895/440/6kpg7mn0/xhr_send?t=1753129465793&n=5", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sockjs-mt1.pusher.com_20250721_173055/response_001.txt", 
+      "timestamp": 1753129466096
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sockjs-mt1.pusher.com_20250721_173055/request_002.txt", 
+      "url": "https://sockjs-mt1.pusher.com:443/pusher/app/6efb2c585e6c00c9b895/440/6kpg7mn0/xhr_send?t=1753129466117&n=7", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sockjs-mt1.pusher.com_20250721_173055/response_002.txt", 
+      "timestamp": 1753129466435
+    }
+  ], 
+  "host": "sockjs-mt1.pusher.com", 
+  "total_requests": 2
+}
