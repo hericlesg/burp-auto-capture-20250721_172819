@@ -1,0 +1,14 @@
+GET /cdn-cgi/challenge-platform/h/g/pat/962d4d225e0bf190/1753128204197/011f46b1093d160d5e8b8d9904acd083f672d04fbbbb116eb24d5d7fefaf7026/vmcnfT8FFv_7z1B HTTP/2
+Host: challenges.cloudflare.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/8yy5w/0x4AAAAAAAiHEkDee-yqSdMj/auto/fbE/new/flexible/auto/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Cache-Control: max-age=0
+Te: trailers
+
