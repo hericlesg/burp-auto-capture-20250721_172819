@@ -1,0 +1,19 @@
+POST /api/frontend/pusher/channel-auth HTTP/2
+Host: api3.a-b-3-d.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 55
+Referer: https://rmbqozvki.com/
+Client-Language: pt-BR
+Tenantid: 9569090
+Origin: https://rmbqozvki.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer f6ew70ixtbv4rul56g6cvhkqrcjqgkhs0f5h46gn
+Te: trailers
+
+socket_id=842350.274586024&channel_name=private-9569090
