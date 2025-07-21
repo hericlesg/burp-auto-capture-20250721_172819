@@ -1,0 +1,26 @@
+POST /api/frontend/trpc/auth.registe HTTP/2
+Host: api3.a-b-3-d.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 1385
+Referer: https://rmbqozvki.com/
+Tenantid: 9569090
+X-Trace-Id: FFGVR2KG
+X-Device-Type: DesktopOS
+X-Device-Id: 020c1c73-d1f4-4ad0-9a24-97b45762f435
+Client-Language: pt-BR
+X-Tag: AmoeOC0TYSoxGGlXPW5oSRwcAhUdQw8QIBdJDmNcBCcYPQc/ak0XPiUOOSQCEX5ZWUlDUkgAcEB8Dw==
+X-Client-Version: v159
+Origin: https://rmbqozvki.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer
+Channelid: 
+Priority: u=4
+Te: trailers
+
+{"json":{"channelId":0,"username":"64937598535","parentId":2603101111,"password":"Senha@123","phoneNumber":"64937598535","registerDevice":"020c1c73-d1f4-4ad0-9a24-97b45762f435","registerDeviceModel":"web Windows NT 10.0 windows Windows NT 10.0; Win64; x64","hToken":"0.DERLAc_t-Zm2QypCSnXmji46Jjo3w98oXV-B5MFL0y2uEz-sHEYqQwrtSmAvpg2Y7Ccnk06UA8nyDZ-Pw87SZ9IpyRVgQlc9DxLJXnz8YfBPIsv4Hz__rWsxm9Nsltp_U6ChwW3U2yerxRiOokb_C20hvjg-MyKvApnFfgEGCiL4azabOrnnrIHZWSS_kWowh_SYB_w9RwiHMIX6gNwVGM5RwlVHlt9ctpTJmVOikoUM5HWGq4WsIjpYgf7i5vrCmbZvzx4jxlAEnqu8XLK4EWDVASHgyvU7VoQot5ChVJ4fzAVZ_5_X6Kk0TKXkuNquIzPBdvB-cOqYyEUJIEM79zVNU-QMUsxxS6I5wKZc_VUhbmA1OwdseRc8RNIB34MKgWzqdeIihiPXYDwyWnxYUsKwyo5wHVW1RiHOglbpVSRyw6t7FJha_11zDWjDuNLtOJ1d1tq2YBlWgafk4Lt1-2D_E1BRBWPiCp6Ejroj_wC9YHWq8OfCQzoKgtpGcceMVQ92nmaK4ejDjPhP-1kpAk7eQxSTmxUcPBgqzhP--puG0-58JMpZ-i2DOfwJGb-WYPYOcWVlgS_t8KBleJo3yfq4NFe-KG_ABjLzdqdbFV-fn1DvNDhnl8yojU62iIDVZDAn5_3XZaangLD6rwSl6vc-2oVbYIIdj63PwCqoQndK-oSc0adB3lVb_X-wrPpNZ5Q8cIY8g6rhVfbTznDt-zxbnlCK1wvFVDzaNjW7xlTeE1hdnlQ8hKN2rocGM7Enn3G-RwZOdE8HecQce4aQEfuWpESnyYmsGn6TkC2nNkiYwJEt8Vc-NLb4ZYIcbFRf0r_M-BG0okxRD6F11mjrH13Gjz-5cCPzZk-xqctbuvV3XXydTK4-9oDWPcPOGNNzxuW2GQXAInVySfpcARBMVDNHpf8N24Czns6ZHrAjNKvG5-z8tZpKJo9316LwgKyk.jG481PxkL9TVQ706WqRd5g.93b74f8dd576a92a407a08043e9cb92c9dc9c5d147ac371c3c9b7bc787973028","registerType":"Phone","cpf":"14445567701","appType":"DesktopOS"}}
