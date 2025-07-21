@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250721_173037", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/rmbqozvki.com_20250721_173037/request_001.txt", 
+      "url": "https://rmbqozvki.com:443/subscribeReward?pid=2603101111", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/rmbqozvki.com_20250721_173037/response_001.txt", 
+      "timestamp": 1753128253682
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/rmbqozvki.com_20250721_173037/request_002.txt", 
+      "url": "https://rmbqozvki.com:443/main/inicio?pid=2603101111", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/rmbqozvki.com_20250721_173037/response_002.txt", 
+      "timestamp": 1753129431898
+    }
+  ], 
+  "host": "rmbqozvki.com", 
+  "total_requests": 2
+}
