@@ -1,0 +1,17 @@
+GET /subscribeReward?pid=2603101111 HTTP/2
+Host: rmbqozvki.com
+Cookie: __cf_bm=z5jLXxqmfoYhuCdJMsnnHyn6N8wWpfS1wzap6NySo2A-1753127957-1.0.1.1-KGYguFtdLb2._P4bZQ7LuZxf2EXPrTqpQuEadvgDDm.PfBdKQN5XTNJKV3VGfvDC6kQq1Fiwx3wt7G5Jrkbc6WZQg2T2hwrnE8GUSMeOw6M; _cfuvid=dGuI0qhrZdHH6FRZmzrasZ6Pqf7.9uJeJD1wIO3Fhpk-1753127957570-0.0.1.1-604800000
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+
