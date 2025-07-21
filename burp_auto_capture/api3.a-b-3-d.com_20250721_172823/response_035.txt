@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:04:33 GMT
+Content-Type: application/json
+Cf-Ray: 962d4edd389cf1f3-GRU
+Cf-Cache-Status: HIT
+Age: 33
+Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+Last-Modified: Mon, 21 Jul 2025 20:04:00 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 21 Jul 2025 20:04:00 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 8865929385518329188
+X-Fc-Instance-Id: c-687e9cd8-0aca7807-6c07315eeadd
+X-Fc-Invocation-Duration: 106
+X-Fc-Invocation-Service-Version: 104
+X-Fc-Max-Memory-Usage: 1074.80
+X-Fc-Request-Id: 1-687e9d30-0afb16ad-a9ec0c0cd652
+X-Original-Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+X-Trace-Id: HMEML14M
+Set-Cookie: __cf_bm=FH5R0rvNySmxWSUBCEW58ZB4fZ2p7EMfpBqdkbDvUD4-1753128273-1.0.1.1-dtR9mPWmj2CERhHgMOhWzaiPbXkMw_IKKK3DPA2rOwo0cJe_Z.OW1l244Lp6ag61YKUaSZxHFTMuE14nKYEccLULwvaEGS0PdIH8K97NiLo; path=/; expires=Mon, 21-Jul-25 20:34:33 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=qvIuDpckebiEy7CM2az3C8Z3T5lQpKARK7L9jglodmQ-1753128273527-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":[{"id":36,"bannerType":"lobby_banner","name":"VIP","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323496903/vip.gif","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"vip\",\"info\":\"string\"}","status":true,"sort":3,"remark":""},{"id":35,"bannerType":"lobby_banner","name":"ä»£çè¿ä½£5%","showName":null,"imageUrl":"https://upload-us.x-y-2-z.com/s3/1748323459127/yj.gif","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"internal","targetValue":"{\"type\":\"promotion\",\"info\":\"string\"}","status":true,"sort":2,"remark":""},{"id":34,"bannerType":"lobby_banner","name":"å®ç®±","showName":null,"imageUrl":"https://upload-us.f-1-g-h.com/s3/1752855212803/11q.gif","shortName":null,"iconUrlType":"default","defaultIconUrl":null,"customIconUrl":null,"targetType":"external","targetValue":"https://60qi2psj.com?ch=21367","status":true,"sort":1,"remark":""}]}}}
