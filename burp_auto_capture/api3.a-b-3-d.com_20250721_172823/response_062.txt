@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:24:45 GMT
+Content-Type: application/json
+Cf-Ray: 962d6c71fc83a4c3-GRU
+Cf-Cache-Status: HIT
+Age: 61
+Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+Last-Modified: Mon, 21 Jul 2025 20:23:44 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 21 Jul 2025 20:23:44 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 1140572459496259295
+X-Fc-Instance-Id: c-687e9ecc-0aca7807-7e2a9d86aa7c
+X-Fc-Invocation-Duration: 47
+X-Fc-Invocation-Service-Version: 102
+X-Fc-Max-Memory-Usage: 1104.53
+X-Fc-Request-Id: 1-687ea1d0-0a702c86-e596e97539bb
+X-Original-Cache-Control: s-maxage=180, max-age=180, stale-while-revalidate=900, stale-if-error=86400
+X-Trace-Id: MN856GCM
+Set-Cookie: __cf_bm=YUqdZkOMHP_jBMzlAZVQN9xG8ZrsIBa8POZiqezhaeo-1753129485-1.0.1.1-26vPHG3xwCsAlcRbXvZGXmRjXw2nO_fdhG5uVnT_5FZ.suAsDkcdZ0akHg_2jBPlYZZsHnJt1TWG5.uRwtwI4Bwf04BW6ejIJSUIS5ZvVbM; path=/; expires=Mon, 21-Jul-25 20:54:45 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=28NwGQZzLgF3Oyab_tPEu.2wcYUSs7WEqZyKybQcCPo-1753129485202-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":{"gameTypeList":[{"gameType":"ELECTRONIC","gameTypeSort":999,"gameTypeStatus":"ON","platformList":[{"id":23,"hot":1,"code":"KKGAME","logo":"https://upload-us.f-1-g-h.com/s3/1749108667965/PG.svg","name":"PG","sort":99,"status":"ON","target":"gameList","hotSort":99,"openType":0,"background":"","restriction":0,"secondaryBackground":""},{"id":25,"hot":1,"code":"ONE_API_Tada","logo":"https://upload-us.bcbd123.com/1721214178671/tada.svg","name":"Tada","sort":96,"status":"ON","target":"gameList","hotSort":96,"openType":1,"background":"","restriction":0,"secondaryBackground":""},{"id":26,"hot":0,"code":"ONE_API_CQ9","logo":"https://upload-us.bcbd123.com/1721214190596/cq9.svg","name":"CQ9","sort":1,"status":"ON","target":"gameList","hotSort":1,"openType":1,"background":"","restriction":1000,"secondaryBackground":""},{"id":27,"hot":0,"code":"ONE_API_Evoplay","logo":"https://upload-us.bcbd123.com/1721214208843/EVOPLAY.svg","name":"Evoplay","sort":7,"status":"ON","target":"gameList","hotSort":1,"openType":1,"background":"","restriction":1000,"secondaryBackground":""},{"id":29,"hot":1,"code":"ONE_API_JDB","logo":"https://upload-us.bcbd123.com/1721214234733/JDB.svg","name":"JDB","sort":94,"status":"ON","target":"gameList","hotSort":94,"openType":1,"background":"","restriction":0,"secondaryBackground":""},{"id":33,"hot":1,"code":"SPRIBE","logo":"https://upload-us.bcbd123.com/1721214273694/Spribe.svg","name":"Spribe","sort":93,"status":"ON","target":"gameList","hotSort":93,"openType":1,"background":"","restriction":1000,"secondaryBackground":""},{"id":34,"hot":1,"code":"PP","logo":"https://upload-us.bcbd123.com/1737540643116/PPlogo_2.svg","name":"PP","sort":98,"status":"ON","target":"gameList","hotSort":98,"openType":1,"background":"","restriction":500,"secondaryBackground":""},{"id":35,"hot":1,"code":"CP","logo":"https://upload-us.bcbd123.com/1740658752321/cp.svg","name":"CP","sort":95,"status":"ON","target":"gameList","hotSort":95,"openType":1,"background":"","restriction":0,"secondaryBackground":""},{"id":36,"hot":1,"code":"G759","logo":"https://upload-us.x-y-2-z.com/s3/1747906208323/759.svg","name":"G759","sort":97,"status":"ON","target":"gameList","hotSort":97,"openType":1,"background":"","restriction":0,"secondaryBackground":""},{"id":37,"hot":1,"code":"ONE_API_FaChai","logo":"https://upload-us.x-y-2-z.com/s3/1746524689722/Fachai.svg","name":"FaChai","sort":92,"status":"ON","target":"gameList","hotSort":92,"openType":1,"background":"","restriction":0,"secondaryBackground":""},{"id":38,"hot":1,"code":"POPOK","logo":"https://upload-us.f-1-g-h.com/s3/1750833862013/Game_popk.svg","name":"POPOK","sort":91,"status":"ON","target":"gameList","hotSort":91,"openType":1,"background":"","restriction":0,"secondaryBackground":""}]},{"gameType":"FISHING","gameTypeSort":998,"gameTypeStatus":"ON","platformList":[{"id":25,"hot":0,"code":"ONE_API_Tada","logo":"https://upload-us.bcbd123.com/1721214178671/tada.svg","name":"Tada","sort":1,"status":"ON","target":"gameList","hotSort":1,"openType":1,"background":"","restriction":1000,"secondaryBackground":""}]},{"gameType":"CHESS","gameTypeSort":996,"gameTypeStatus":"ON","platformList":[{"id":25,"hot":0,"code":"ONE_API_Tada","logo":"https://upload-us.bcbd123.com/1721214178671/tada.svg","name":"Tada","sort":1,"status":"ON","target":"gameList","hotSort":10,"openType":1,"background":"","restriction":1000,"secondaryBackground":""}]}]}}}}
